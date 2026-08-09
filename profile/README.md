@@ -31,4 +31,4 @@ Actx0 is the memory layer your agents are missing: a drop-in infrastructure that
 - **[API Reference](https://docs.actx0.com/api-reference/overview):** REST APIs for memory, sessions, prompts, knowledge, and keys
 - **[Integrations](https://docs.actx0.com/integrations/overview):** Webhooks, Slack, Zapier, and framework connectors
 - **[Agent Plugins](https://docs.actx0.com/agent-plugins/overview):** Memory plugins for Cursor, Claude Code, and more
-- **[Release Notes](https://docs.actx0.com/release-notes/platform):** Platform and SDK & Tools Changelogs
+- **[Release Notes](https://docs.actx0.com/release-notes/platform):** Platform and SDK & Tools changelogs
